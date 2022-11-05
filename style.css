@@ -79,6 +79,8 @@
     align-items: center;
     justify-content: center;
     margin-right: 20px;
+    outline: none;
+    border: none;
 }
 .keys{
     display: grid;
@@ -97,6 +99,8 @@
     background-color: red;
     color: #f4f4f4;
     margin-right: 10px;
+    outline: none;
+    border: none;
 }
 
 .operator{
@@ -112,4 +116,6 @@
     align-items: center;
     justify-content: center;
     margin-right: 26px;
+    outline: none;
+    border: none;
 }
